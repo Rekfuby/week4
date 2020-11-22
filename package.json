@@ -1,0 +1,14 @@
+{
+  "name": "week4",
+  "version": "1.0.0",
+  "engines": {
+    "node": "10.19.0"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/Rekfuby/week4.git",
+  "author": "solaireat",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
